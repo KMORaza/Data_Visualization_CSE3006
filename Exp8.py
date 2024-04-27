@@ -1,5 +1,3 @@
-# KHAN MOHD OWAIS RAZA
-# 20BCD7138
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
