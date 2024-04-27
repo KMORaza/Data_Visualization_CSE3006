@@ -1,5 +1,3 @@
-# KHAN MOHD OWAIS RAZA
-# 20BCD7138
 library(class)
 library(ggplot2)
 set.seed(123)  
